@@ -209,7 +209,7 @@ namespace ProjetoFinalGameEngine
         {
             _spriteBatch.Draw(targetSprite, new Vector2(_graphics.PreferredBackBufferWidth / 2 + 280, _graphics.PreferredBackBufferHeight / 2 - 300), Color.White);
             _spriteBatch.Draw(targetSprite, new Vector2(_graphics.PreferredBackBufferWidth / 2 - 360, _graphics.PreferredBackBufferHeight / 2 - 300), Color.White);
-            _spriteBatch.DrawString(gameFont, "Kill Insect", new Vector2(_graphics.PreferredBackBufferWidth / 2 - 130, _graphics.PreferredBackBufferHeight / 2 - 280), Color.White, 0f, Vector2.Zero, 80 / gameFont.MeasureString("Creditos").Y, SpriteEffects.None, 0f);
+            _spriteBatch.DrawString(gameFont, "Mata Mosquito", new Vector2(_graphics.PreferredBackBufferWidth / 2 - 205, _graphics.PreferredBackBufferHeight / 2 - 280), Color.White, 0f, Vector2.Zero, 80 / gameFont.MeasureString("Creditos").Y, SpriteEffects.None, 0f);
             _spriteBatch.DrawString(gameFont, "Creditos", new Vector2(520, 550), Color.White, 0f, Vector2.Zero, 50 / gameFont.MeasureString("Creditos").Y, SpriteEffects.None, 0f);
 
             _spriteBatch.Draw(playButton, new Vector2(_graphics.PreferredBackBufferWidth / 2 - 70, _graphics.PreferredBackBufferHeight / 2), Color.White);

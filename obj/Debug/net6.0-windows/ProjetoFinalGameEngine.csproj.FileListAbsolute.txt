@@ -92,3 +92,4 @@ C:\Users\Dido\Desktop\ProjetoFinalGameEngine\ProjetoFinalGameEngine\obj\Debug\ne
 C:\Users\Dido\Desktop\ProjetoFinalGameEngine\ProjetoFinalGameEngine\obj\Debug\net6.0-windows\ProjetoFinalGameEngine.pdb
 C:\Users\Dido\Desktop\ProjetoFinalGameEngine\ProjetoFinalGameEngine\obj\Debug\net6.0-windows\ProjetoFinalGameEngine.genruntimeconfig.cache
 C:\Users\Dido\Desktop\ProjetoFinalGameEngine\ProjetoFinalGameEngine\obj\Debug\net6.0-windows\ref\ProjetoFinalGameEngine.dll
+C:\Users\Dido\Desktop\ProjetoFinalGameEngine\ProjetoFinalGameEngine\obj\Debug\net6.0-windows\ProjetoFinalGameEngine.sourcelink.json
